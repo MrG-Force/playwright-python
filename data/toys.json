@@ -1,0 +1,26 @@
+[
+	{
+		"price": 789.99,
+		"category": "Risky Toys",
+		"title": "The Rabbit of Caerbannog",
+		"size": "small",
+		"image": "https://i.pinimg.com/originals/01/93/ea/0193ea7db5e6ee5c6aae40548eb3cb13.gif",
+		"stock": 10
+	},
+	{
+		"price": 1253.33,
+		"category": "Risky Toys",
+		"title": "M3GAN",
+		"size": "medium",
+		"image": "https://img.buzzfeed.com/buzzfeed-static/static/2023-01/19/23/asset/067fd84ff315/anigif_sub-buzz-5708-1674172679-3.gif",
+		"stock": 20
+	},
+	{
+		"price": 925.89,
+		"category": "Risky Toys",
+		"title": "Atomic Energy Lab",
+		"size": "medium",
+		"image": "https://orau.org/health-physics-museum/img/museum/toys/gilbert-atomic-open.jpg",
+		"stock": 33
+	}
+]

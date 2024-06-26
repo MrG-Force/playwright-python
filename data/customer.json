@@ -1,0 +1,31 @@
+{
+    "contact": {
+        "first_name": "Jeffrey",
+        "last_name": "Lebowski",
+        "email": "elduderino@highmail.com",
+        "phone_number": "5555555555",
+        "address_1": "405 N. Rossmore Ave.",
+        "address_2": "Apt. 3",
+        "suburb": "Rickywood",
+        "state": "VIC",
+        "postcode": "3000",
+        "full_name": "Jeffrey Lebowski",
+        "full_address": "405 N. Rossmore Ave. Apt. 3 Rickywood VIC 3000"
+    },
+    "delivery": {
+        "full_name": "Maude Lebowski",
+        "address_1": "5227 Santa Monica Blvd",
+        "address_2": "Hollywood Star Lanes",
+        "suburb": "Los Angeles",
+        "state": "WA",
+        "postcode": "5000",
+        "full_address": "5227 Santa Monica Blvd Hollywood Star Lanes Los Angeles WA 5000"
+    },
+    "payment": {
+        "name_on_card": "Walther Sobchak",
+        "card_number": "4111111111111111",
+        "card_type": "VISA",
+        "expiry_date": "12/12",
+        "cvv": "123"
+    }
+}
